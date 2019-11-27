@@ -1,0 +1,3 @@
+/home/elana/BootCamp-HW/c/bitwise-circular-shift-ElanaFelsi/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/elana/BootCamp-HW/c/bitwise-circular-shift-ElanaFelsi/cmake-build-debug/CMakeFiles/bitwise_circular_shift_ElanaFelsi.dir
+/home/elana/BootCamp-HW/c/bitwise-circular-shift-ElanaFelsi/cmake-build-debug/CMakeFiles/edit_cache.dir
